@@ -1,0 +1,19 @@
+.footer {
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.856);
+  justify-content: center;
+}
+h4 {
+  color: #fff;
+}
+.copyright {
+  margin: 0 130px;
+}
+.icon {
+  display: flex;
+  flex-wrap: wrap;
+}
+i {
+  margin: 5px 10px;
+  color: #fff;
+}
